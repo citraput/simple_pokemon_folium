@@ -7,7 +7,7 @@ Making Pokemon Map in San Francisco Bay Area using Folium
   - Popup: Name of Pokemon, Image of Pokemon, Criterias of Pokemon
 - Dataset Source: https://www.kaggle.com/kveykva/sf-bay-area-pokemon-go-spawns
 - Webscrapping
-  - Pokemon Image: https://pokeres.bastionbot.org/images/pokemon/' + str{num} + '.png'
-  - Pokemon Details: https://pokeapi.co/api/v2/pokemon/' + pokemon.iloc[1]['name'].lower()
+  - Pokemon Image: https://pokeres.bastionbot.org/images/pokemon/str{num}.png
+  - Pokemon Details: https://pokeapi.co/api/v2/pokemon/{name_pokemon}
 <hr>  
 - View the Map: https://citraput.github.io/simple_pokemon_folium/
