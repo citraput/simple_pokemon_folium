@@ -1,5 +1,9 @@
 # simple_pokemon_folium
 
+View the Map: https://citraput.github.io/simple_pokemon_folium/
+
+<hr>
+
 Making Pokemon Map in San Francisco Bay Area using Folium
 - Functionality:
   - Randomize Pokemon Image and Location based on Latitude and Longitude
@@ -10,4 +14,3 @@ Making Pokemon Map in San Francisco Bay Area using Folium
   - Pokemon Image: https://pokeres.bastionbot.org/images/pokemon/str{num}.png
   - Pokemon Details: https://pokeapi.co/api/v2/pokemon/{name_pokemon}
 <hr>  
-- View the Map: https://citraput.github.io/simple_pokemon_folium/
